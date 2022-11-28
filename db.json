@@ -1,19 +1,29 @@
 {
   "todos": [
     {
-      "description": "asd",
+      "description": "Learn VUE",
       "done": false,
-      "id": 28
+      "id": 1
     },
     {
-      "description": "as",
-      "done": false,
-      "id": 29
+      "description": "Meet your neighbours",
+      "done": true,
+      "id": 5
     },
     {
-      "description": "d",
+      "description": "Go for a walk with the dog",
       "done": false,
-      "id": 30
+      "id": 6
+    },
+    {
+      "description": "Shopping List: apples, bananas, bread and some candies",
+      "done": true,
+      "id": 7
+    },
+    {
+      "description": "Finding a good hosting service for a to-do Api",
+      "done": false,
+      "id": 8
     }
   ]
 }
